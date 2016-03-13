@@ -81,10 +81,10 @@ input:focus:-moz-placeholder { color:transparent; }
 	#container .brand { height:10%; }
 	#container #content { height:90%;}
 	img#logo { width: 125px; display: block; margin-left: auto; margin-right: auto; margin-top: 50px; }
-	img#words { width: 300px; margin-top: 225px;}
+	img#words { width: 300px; margin-top: 205px;}
 	input { height: 21px; }
 	input#email-subscribe { width: 130px; }
-	a { margin: 100px 3px 10px 3px; }
+	a { margin: 70px 3px 10px 3px; }
 	
 
 }
