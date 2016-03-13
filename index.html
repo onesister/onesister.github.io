@@ -8,6 +8,7 @@
 <!-- css link -->
 <link rel="stylesheet" type="text/css" href="font-awesome-4.0.3/css/font-awesome.min.css" />
 <link rel="stylesheet" type="text/css" href="css/style.css" />
+
 <!-- JavaScript link -->
 <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
@@ -22,11 +23,31 @@
         		<p class="our-color">Life's too short to drink shitty coffee.</p>
                 <img id="words" src="jpg/shitty_coffee.svg">
 
-                <form class="subscriptionForm" method="post" id="signup-form">
+            <!--     <form class="subscriptionForm" method="post" id="signup-form" action='email.php'>
                     <input id="email-subscribe" name="email" placeholder="EMAIL ADDRESS" />
                     <input type="submit" id="subscribebtn" value="NOTIFY ME!" />
-                </form>
-                
+                </form> -->
+
+                                
+         <!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="https://fourbrotherscoffee.us13.list-manage.com/subscribe/post?u=c25ef0681aeb1b9cd8a074fb4&amp;id=2fa5ab92ec" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+    
+<div class="mc-field-group">
+    <input type="email" value="" name="EMAIL" placeholder="EMAIL ADDRESS" class="required email" id="mce-EMAIL">
+    <input type="submit" value="NOTIFY ME!" name="subscribe" id="mc-embedded-subscribe" class="button">
+    </div>
+</div>
+    <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+    </div> 
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
                 <p id="success">Thanks for your subscription!</p>
                 <p id="error">Please provide a valid email address!</p>
                 
@@ -39,5 +60,8 @@
             </div>
         </div>
     </div>
+</body>
+</html>
+
 </body>
 </html>
