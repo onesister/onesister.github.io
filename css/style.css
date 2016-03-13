@@ -78,8 +78,6 @@ input:focus:-moz-placeholder { color:transparent; }
 #container #content .content { display:inline-block; position:absolute; top:50%; left:50%; text-align: center; }
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
-	#container .brand { height:100%; }
-	#container #content { height:0%;}
 	img#logo { width: 25px; display: block; margin-left: auto; margin-right: auto; margin-top: 50px; }
 	img#words { width: 300px; margin-top: 205px;}
 	input { height: 21px; }
