@@ -79,6 +79,6 @@ input:focus:-moz-placeholder { color:transparent; }
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
 	img#logo { width: 125px; display: block; margin-left: auto; margin-right: auto; margin-top: 50px; }
-	img#words { width: 370px; margin-top: 195px;}
+	img#words { width: 300px; margin-top: 195px;}
 
 }
