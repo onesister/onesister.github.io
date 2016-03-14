@@ -12,10 +12,10 @@ html, body {
 body {
 	background: linear-gradient(700deg, #0c3fc7, #4ddeff);
 	background-size: 250% 250%;
-	-webkit-animation: BGAnimation 13s ease infinite;
-	-moz-animation: BGAnimation 13s ease infinite;
-	-o-animation: BGAnimation 13s ease infinite;
-	animation: BGAnimation 13s ease infinite;
+	-webkit-animation: BGAnimation 12s ease infinite;
+	-moz-animation: BGAnimation 12s ease infinite;
+	-o-animation: BGAnimation 12s ease infinite;
+	animation: BGAnimation 12s ease infinite;
 	}
 
 	@-webkit-keyframes BGAnimation {
@@ -43,7 +43,7 @@ body {
 h1, h2, h3, h4, h5, h6, p { margin:0; padding:0; }
 h1 { font-weight: bold; font-size: 2.45em; }
 p { font-size: 1.6em; font-weight: 200; }
-a { color: #fff; width: 50px; height: 50px; text-align: center; display: inline-block; margin: 170px 3px 10px 3px; -webkit-transition: 0.5s; transition: 0.5s; }
+a { color: #fff; width: 50px; height: 50px; text-align: center; display: inline-block; margin: 65px 3px 20px 3px; -webkit-transition: 0.5s; transition: 0.5s; }
 a .fa { line-height: 50px; }
 .our-color { color: rgba(255,255,255, 0); margin: -65px;}
 
@@ -52,15 +52,16 @@ a .fa { line-height: 50px; }
 
 img#logo {width: 105px; margin:35px 40px;}
 /*img#logo { width: 105px; display: block; margin-left: auto; margin-right: auto; margin-top: 35px;}*/
-img#words { width: 405px; margin-top: 230px;}
+img#words { width: 405px; margin-top: 180px;}
 
-input { font-family: 'Raleway', sans-serif; background-color: rgba(255,255,255, 0); margin: 25px auto; height: 23px; border: 2px solid #fff; border-radius: 2px; outline: none; padding: 0 9px; font-size: 0.7em; text-align: center; -webkit-appearance: none;}
+input { font-family: 'Raleway', sans-serif; background-color: rgba(255,255,255, 0); margin: 25px auto; height: 23px; border: 2px solid #fff; border-radius: 2px; outline: none; padding: 0 9px; font-size: 0.7em; text-align: center; margin-bottom: 100px; -webkit-appearance: none;}
 input#mce-EMAIL { width: 175px; color: #fff; -webkit-transition: 0.5s; transition: 0.5s; }
-input#mce-EMAIL:focus { color: #fff; border-color: #fff; }
+input#mce-EMAIL:focus { color: #fff; border-color: #fff;} 
 input#mc-embedded-subscribe { color: #4A90E2; background: #fff; cursor: pointer; -webkit-transition: 0.5s; transition: 0.5s; height: 27px; }
 input#mc-embedded-subscribe:hover { color: #fff; background: #4A90E2; border: 2px solid #4A90E2;}
 input:focus::-webkit-input-placeholder { color:transparent; }
 input:focus:-moz-placeholder { color:transparent; }
+input:-webkit-autofill { -webkit-box-shadow: 0 0 0px 1000px white inset; -webkit-text-fill-color: #4A90E2;}
 
 ::-webkit-input-placeholder { color: #fff; }
 :-moz-placeholder { color: #fff; } /* Firefox 18- */ 
@@ -79,7 +80,7 @@ input:focus:-moz-placeholder { color:transparent; }
 	#container .brand { height:20%; }
 	#container #content { height:80%; }
 	img#logo {display: block; margin-left: auto; margin-right: auto}
-	img#words { width: 300px; margin-top: 225px;}
+	img#words { width: 300px; margin-top: 205px;}
 	input { height: 21px; }
 	input#mce-EMAIL { width: 130px; }
 	input#mc-embedded-subscribe { height: 25px; }
