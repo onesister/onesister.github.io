@@ -81,7 +81,7 @@ input:focus:-moz-placeholder { color:transparent; }
 @media only screen and (min-width: 320px) and (max-width: 480px) {
 	#container .brand { height:10%; }
 	#container #content { height:90%; }
-	img#words { width: 300px; margin-top: 205px;}
+	img#words { width: 300px; margin-top: 235px;}
 	input { height: 21px; }
 	input#email-subscribe { width: 130px; }
 	input#mc-embedded-subscribe { height: 20px; }
