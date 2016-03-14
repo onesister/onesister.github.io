@@ -79,8 +79,8 @@ input:focus:-moz-placeholder { color:transparent; }
 #container #content .content { display:inline-block; position:absolute; top:50%; left:50%; text-align: center; }
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
-	#container .brand { height:10%; }
-	#container #content { height:90%; }
+	#container .brand { height:20%; }
+	#container #content { height:80%; }
 	img#words { width: 300px; margin-top: 335px;}
 	input { height: 21px; }
 	input#email-subscribe { width: 130px; }
