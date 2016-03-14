@@ -57,7 +57,7 @@ img#logo {width: 105px; margin:35px 40px;}
 /*img#logo { width: 105px; display: block; margin-left: auto; margin-right: auto; margin-top: 35px;}*/
 img#words { width: 405px; margin-top: 230px;}
 
-input { font-family: 'Raleway', sans-serif; background-color: rgba(255,255,255, 0); margin: 25px auto; height: 23px; border: 2px solid #fff; border-radius: 2px; outline: none; padding: 0 9px; font-size: 0.7em; text-align: center;}
+input { font-family: 'Raleway', sans-serif; background-color: rgba(255,255,255, 0); margin: 25px auto; height: 23px; border: 2px solid #fff; border-radius: 2px; outline: none; padding: 0 9px; font-size: 0.7em; text-align: center; -webkit-appearance: none;}
 input#email-subscribe { width: 190px; color: #fff; -webkit-transition: 0.5s; transition: 0.5s; }
 input#email-subscribe:focus { border-color: #fff; }
 input#mc-embedded-subscribe { color: #4A90E2; background: #fff; cursor: pointer; -webkit-transition: 0.5s; transition: 0.5s; height: 27px; }
