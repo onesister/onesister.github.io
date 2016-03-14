@@ -84,6 +84,7 @@ input:focus:-moz-placeholder { color:transparent; }
 	img#words { width: 300px; margin-top: 205px;}
 	input { height: 21px; }
 	input#email-subscribe { width: 130px; }
+	input#mc-embedded-subscribe { height: 25px; }
 	a { margin: 70px 3px 10px 3px; }
 	input#subscribebtn { color: #4A90E2; background: #4A90E2; cursor: pointer; height: 25px; }
 
