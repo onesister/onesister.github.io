@@ -82,7 +82,7 @@ input:focus:-moz-placeholder { color:transparent; }
 	#container .brand { height:20%; }
 	#container #content { height:80%; }
 	img#logo {display: block; margin-left: auto; margin-right: auto}
-	img#words { width: 300px; margin-top: 335px;}
+	img#words { width: 300px; margin-top: 235px;}
 	input { height: 21px; }
 	input#email-subscribe { width: 130px; }
 	input#mc-embedded-subscribe { height: 25px; }
