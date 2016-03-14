@@ -80,7 +80,7 @@ input:-webkit-autofill { -webkit-box-shadow: 0 0 0px 1000px white inset; -webkit
 	#container .brand { height:20%; }
 	#container #content { height:80%; }
 	img#logo {display: block; margin-left: auto; margin-right: auto}
-	img#words { width: 300px; margin-top: 185px;}
+	img#words { width: 300px; margin-top: 105px;}
 	input { height: 21px; margin-bottom: 0px; }
 	input#mce-EMAIL { width: 130px; }
 	input#mc-embedded-subscribe { height: 25px; }
