@@ -10,14 +10,17 @@ html, body {
 
 body { background-color: #fff;}
 
+div.addthis_toolbox { width: 240px; margin: 0 auto; }
+
 img#logo2 { width: 105px; margin:35px 40px; }
 img#thanks { display: block; margin-left: auto; margin-right: auto; margin-top: -15px; margin-bottom: 10px}
 
 p { text-align: center; font-size: 15px; color: #4ddeff; font-style: italic;}
 p#follow { font-size: 20px;  color: #0c3fc7; }
+p#email { margin-top: 50px; }
 
-div.addthis_toolbox { width: 168px; margin: 0 auto; }
-a { margin: 65px 1px 20px 3px; }
+a {margin: 0px, 12px;}
+
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
 	img#logo2 { display: block; margin-left: auto; margin-right: auto }
