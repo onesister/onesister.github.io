@@ -47,10 +47,7 @@ a { color: #fff; width: 50px; height: 50px; text-align: center; display: inline-
 a .fa { line-height: 50px; }
 .our-color { color: rgba(255,255,255, 0); margin: -65px;}
 
-div.addthis_toolbox {
-width: 212px;
-margin: 0 auto;
-}
+div.addthis_toolbox { width: 168px; margin: 0 auto; }
 
 img#logo {width: 105px; margin:35px 40px;}
 img#logo2 { display: block; margin-left: auto; margin-right: auto }
