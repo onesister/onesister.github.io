@@ -47,12 +47,6 @@ a { color: #fff; width: 50px; height: 50px; text-align: center; display: inline-
 a .fa { line-height: 50px; }
 .our-color { color: rgba(255,255,255, 0); margin: -65px;}
 
-.addthis_horizontal_follow_toolbox {
-width: 200px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;}
-
 img#logo {width: 105px; margin:35px 40px;}
 /*img#logo { width: 105px; display: block; margin-left: auto; margin-right: auto; margin-top: 35px;}*/
 img#words { width: 405px; margin-top: 180px;}
