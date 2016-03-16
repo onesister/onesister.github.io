@@ -24,7 +24,7 @@ a {margin: 0 12px;}
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
 	img#logo2 { display: block; margin-left: auto; margin-right: auto; width: 150px;}
-	img#thanks { width: 305px;}
+	img#thanks { width: 285px;}
 	p#follow { font-size: 17px; }
-	a { margin: 0 5px; }
+	p#emai { margin-top: 50px; }
 }	
