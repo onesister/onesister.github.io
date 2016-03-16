@@ -26,5 +26,5 @@ a {margin: 0 12px;}
 	img#logo2 { display: block; margin-left: auto; margin-right: auto; width: 150px;}
 	img#thanks { width: 300px;}
 	p#follow { font-size: 16px; }
-	p#emai { margin-top: 1px; }
+	p#emai { margin-top: 0; }
 }	
