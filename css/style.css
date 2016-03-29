@@ -52,7 +52,7 @@ div.addthis_toolbox { width: 168px; margin: 0 auto; }
 img#logo {width: 105px; margin:35px 40px;}
 img#logo2 { display: block; margin-left: auto; margin-right: auto }
 /*img#logo { width: 105px; display: block; margin-left: auto; margin-right: auto; margin-top: 35px;}*/
-img#words { width: 405px; margin-top: 180px;}
+img#words { width: 405px; margin-top: 150px;}
 
 input { font-family: 'Raleway', sans-serif; background-color: rgba(255,255,255, 0); margin: 25px auto; height: 23px; border: 2px solid #fff; border-radius: 2px; outline: none; padding: 0 9px; font-size: 0.7em; text-align: center; margin-bottom: 100px; -webkit-appearance: none;}
 input#mce-EMAIL { width: 175px; color: #fff; -webkit-transition: 0.5s; transition: 0.5s; }
